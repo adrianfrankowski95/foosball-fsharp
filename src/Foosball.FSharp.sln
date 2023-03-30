@@ -1,12 +1,13 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foosball.FSharp.API", "Foosball.FSharp.API\Foosball.FSharp.API.fsproj", "{80E0DAA7-BE90-482E-9E4B-223CC3B5B63F}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foosball.FSharp.API", "Foosball.FSharp.API\Foosball.FSharp.API.fsproj", "{DA8F9B60-4B8F-41E0-90EB-284A2E2846C3}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foosball.FSharp.Domain", "Foosball.FSharp.Domain\Foosball.FSharp.Domain.fsproj", "{26D47C18-A317-4CDE-9492-AD328141499C}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foosball.FSharp.Domain", "Foosball.FSharp.Domain\Foosball.FSharp.Domain.fsproj", "{C7B640D2-082D-4093-B410-BE5BA675E80E}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foosball.FSharp.Infrastructure", "Foosball.FSharp.Infrastructure\Foosball.FSharp.Infrastructure.fsproj", "{17CA295C-E780-435F-8B5C-462123C2F4FF}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foosball.FSharp.Infrastructure", "Foosball.FSharp.Infrastructure\Foosball.FSharp.Infrastructure.fsproj", "{1C49B9F8-A117-42F6-9450-13D66C374DB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,17 +18,17 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80E0DAA7-BE90-482E-9E4B-223CC3B5B63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80E0DAA7-BE90-482E-9E4B-223CC3B5B63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80E0DAA7-BE90-482E-9E4B-223CC3B5B63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80E0DAA7-BE90-482E-9E4B-223CC3B5B63F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26D47C18-A317-4CDE-9492-AD328141499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26D47C18-A317-4CDE-9492-AD328141499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26D47C18-A317-4CDE-9492-AD328141499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26D47C18-A317-4CDE-9492-AD328141499C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17CA295C-E780-435F-8B5C-462123C2F4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17CA295C-E780-435F-8B5C-462123C2F4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17CA295C-E780-435F-8B5C-462123C2F4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17CA295C-E780-435F-8B5C-462123C2F4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8F9B60-4B8F-41E0-90EB-284A2E2846C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8F9B60-4B8F-41E0-90EB-284A2E2846C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8F9B60-4B8F-41E0-90EB-284A2E2846C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8F9B60-4B8F-41E0-90EB-284A2E2846C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B640D2-082D-4093-B410-BE5BA675E80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B640D2-082D-4093-B410-BE5BA675E80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B640D2-082D-4093-B410-BE5BA675E80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B640D2-082D-4093-B410-BE5BA675E80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C49B9F8-A117-42F6-9450-13D66C374DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C49B9F8-A117-42F6-9450-13D66C374DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C49B9F8-A117-42F6-9450-13D66C374DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C49B9F8-A117-42F6-9450-13D66C374DB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

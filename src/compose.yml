@@ -1,6 +1,6 @@
 services:
-  Foosball.FSharp-api:
-    image: Foosball.FSharp/Foosball.FSharp-api
+  foosball-fsharp-api:
+    image: foosball-api:fsharp
     restart: on-failure
     build:
       context: .
