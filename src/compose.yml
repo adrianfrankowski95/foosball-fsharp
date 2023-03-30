@@ -1,0 +1,11 @@
+services:
+  Foosball.FSharp-api:
+    image: Foosball.FSharp/Foosball.FSharp-api
+    restart: on-failure
+    build:
+      context: .
+      dockerfile: Foosball.FSharp.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    ports:
+      - 8080:80
