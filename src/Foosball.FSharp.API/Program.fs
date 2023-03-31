@@ -11,7 +11,7 @@ module Program =
 
     [<EntryPoint>]
     let main args =
-
+    
         let builder = WebApplication.CreateBuilder(args)
         let services = builder.Services
 

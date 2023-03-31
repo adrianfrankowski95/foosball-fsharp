@@ -1,0 +1,1 @@
+module internal Foosball.Domain.UpdateGameResult.Implementation

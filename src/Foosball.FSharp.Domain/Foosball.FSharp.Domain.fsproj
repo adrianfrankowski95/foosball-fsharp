@@ -5,4 +5,13 @@
   </PropertyGroup>
   <ItemGroup>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common.SimpleTypes.fs" />
+    <Compile Include="Common.CompundTypes.fs" />
+    <Compile Include="UpdateGameResult.PublicTypes.fs" />
+    <Compile Include="UpdateGameResult.Implementation.fs" />
+    <Compile Include="CreateGame.InternalTypes.fs" />
+    <Compile Include="CreateGame.PublicTypes.fs" />
+    <Compile Include="CreateGame.Implementation.fs" />
+  </ItemGroup>
 </Project>

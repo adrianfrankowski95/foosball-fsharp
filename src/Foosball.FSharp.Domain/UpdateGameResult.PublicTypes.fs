@@ -1,0 +1,1 @@
+namespace Foosball.Domain.UpdateGameResult
